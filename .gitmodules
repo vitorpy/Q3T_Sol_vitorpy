@@ -1,3 +1,6 @@
 [submodule "capstone"]
 	path = capstone
 	url = git@github.com:vitorpy/cyklon.git
+[submodule "escrow"]
+	path = escrow
+	url = git@github.com:vitorpy/turbin3-escrow.git
